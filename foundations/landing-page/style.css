@@ -1,0 +1,14 @@
+.header {
+    font-family: Roboto, sans-serif;
+    color: #F9FAF8;
+    background-color: #1F2937;
+}
+
+.topbar {
+    display: flex;
+}
+
+.header-content {
+    display: flex;
+    flex-direction: column;
+}
